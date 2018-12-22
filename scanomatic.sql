@@ -1,0 +1,1 @@
+SELECT first_name,last_name,enabled FROM employees WHERE authorized = 1 AND uid = 'UNION SELECT 1,1, TABLE_SCHEMA FROM information_schema.TABLES UNION SELECT 1,1,' 1
