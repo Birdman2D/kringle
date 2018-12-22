@@ -1,0 +1,2 @@
+# kringle
+Solutions to KringleCon
